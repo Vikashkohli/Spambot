@@ -14,7 +14,7 @@ HELP_BUTTON = [
       Button.inline("• ᴇxᴛʀᴀ •", data="extra")
     ],
     [
-      Button.url("• ᴄʜᴀɴɴᴇʟ •", "https://t.me/Earning_with_shivam_official"),
+      Button.url("• ᴄʜᴀɴɴᴇʟ •", "https://t.me/SUKOON_CHAT"),
       Button.url("• sᴜᴘᴘᴏʀᴛ •", "https://t.me/Earn_without_investment01")
     ]
   ]
@@ -136,13 +136,13 @@ async def helpback(event):
                 Button.inline("• ᴇxᴛʀᴀ •", data="extra")
               ],
               [
-                Button.url("• ᴄʜᴀɴɴᴇʟ •", "https://t.me/Earning_with_shivam_official"),
+                Button.url("• ᴄʜᴀɴɴᴇʟ •", "https://t.me/SUKOON_CHAT"),
                 Button.url("• sᴜᴘᴘᴏʀᴛ •", "https://t.me/Earn_without_investment01")
               ]
             ]
           )
     else:
-        await event.answer("Make Your Own Shivam Spam Bot !! @Shivam_jaiswal0011", cache_time=0, alert=True)
+        await event.answer("Make Your Own GOD FATHER Spam Bot !! @YOUR_FATHER_IS_BACK_BETE", cache_time=0, alert=True)
 
 
 @X1.on(events.CallbackQuery(pattern=r"spam"))
@@ -161,7 +161,7 @@ async def help_spam(event):
               buttons=[[Button.inline("< Back", data="help_back"),],],
               ) 
     else:
-        await event.answer("Make Your Own Shivam Spam Bot !! @Shivam_jaiswal0011", cache_time=0, alert=True)
+        await event.answer("Make Your Own GOD FATHER Spam Bot !! @YOUR_FATHER_IS_BACK_BETE", cache_time=0, alert=True)
 
 
 @X1.on(events.CallbackQuery(pattern=r"raid"))
@@ -180,7 +180,7 @@ async def help_raid(event):
             buttons=[[Button.inline("< Back", data="help_back"),],],
           )
     else:
-        await event.answer("Make Your Own Shivam Spam Bot !! @Shivam_jaiswal0011", cache_time=0, alert=True)
+        await event.answer("Make Your Own Shivam Spam Bot !! @YOUR_FATHER_IS_BACK_BETE", cache_time=0, alert=True)
 
 
 @X1.on(events.CallbackQuery(pattern=r"extra"))
@@ -199,4 +199,4 @@ async def help_extra(event):
             buttons=[[Button.inline("< Back", data="help_back"),],],
             )
     else:
-        await event.answer("Make Your Own Shivam spam Bot !! @Shivam_jaiswal0011", cache_time=0, alert=True)
+        await event.answer("Make Your Own GOD FATHER spam Bot !! @YOUR_FATHER_IS_BACK_BETE", cache_time=0, alert=True)
