@@ -34,7 +34,7 @@ _𝗠𝗲𝘀𝘀𝗮𝗴𝗲 𝗺𝗲 𝗼𝗻 𝘁𝗲𝗹𝗲𝗴𝗿𝗮𝗺
 
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Shivam892483/SpambotV2"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://github.com/Vikashkohli/ALPHA_USERBOT"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 </details>
 
@@ -66,11 +66,11 @@ _𝗠𝗲𝘀𝘀𝗮𝗴𝗲 𝗺𝗲 𝗼𝗻 𝘁𝗲𝗹𝗲𝗴𝗿𝗮𝗺
 
 </h3>
 
-- <b>[ᴍʏ ᴛᴇʟᴇɢʀᴀᴍ](http://t.me/shivam_jaiswal001)  ➻  [ ʏᴏᴜᴛᴜʙᴇ](https://youtube.com/@Shivam_jaiswal001) </b>
+- <b>[ᴍʏ ᴛᴇʟᴇɢʀᴀᴍ](http://t.me/ll_YOUR_FATHER_HU_ll)  ➻  [ ʏᴏᴜᴛᴜʙᴇ](https://t.me/MY_SYSTEM_GOD) </b>
 
 - <b>[𝐀xᴇɴ](https://t.me/PyXen)  ➻  [ ʀᴇᴘᴏ ʟɪɴᴋ](https://github.com/ItZxSTaR/XBOTS) </b>
 
- <b>ᴀɴᴅ ᴀʟʟ [ᴛʜᴇ ᴄᴏɴᴛʀɪʙᴜᴛᴏʀs](https://github.com/Shivam892483/SpambotV2/graphs/contributors) ᴡʜᴏ ʜᴇʟᴩᴇᴅ ɪɴ ᴍᴀᴋɪɴɢ sᴘᴀᴍ ✘ ʙᴏᴛ ᴜsᴇғᴜʟ & ᴩᴏᴡᴇʀғᴜʟ 🖤 </b>
+ <b>ᴀɴᴅ ᴀʟʟ [ᴛʜᴇ ᴄᴏɴᴛʀɪʙᴜᴛᴏʀs](https:/ll_YOUR_FATHER_HU_ll) ᴡʜᴏ ʜᴇʟᴩᴇᴅ ɪɴ ᴍᴀᴋɪɴɢ sᴘᴀᴍ ✘ ʙᴏᴛ ᴜsᴇғᴜʟ & ᴩᴏᴡᴇʀғᴜʟ 🖤 </b>
 
 ━━━━━━━━━━━━━━━━━━━━
 
