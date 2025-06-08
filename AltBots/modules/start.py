@@ -8,11 +8,11 @@ START_BUTTON = [
         Button.inline("• ᴄᴏᴍᴍᴀɴᴅs •", data="help_back")
     ],
     [
-        Button.url("• ᴄʜᴀɴɴᴇʟ •", "https://t.me/Earning_with_shivam_official"),
-        Button.url("• sᴜᴘᴘᴏʀᴛ •", "https://t.me/Earn_without_investment01")
+        Button.url("• ᴄʜᴀɴɴᴇʟ •", "https://t.me/MY_SYSTEM_GOD"),
+        Button.url("• sᴜᴘᴘᴏʀᴛ •", "https://t.me/MY_SYSTEM_GOD")
     ],
     [
-        Button.url("• ʀᴇᴘᴏ •", "https://github.com/Shivam892483/SpambotV2")
+        Button.url("• ʀᴇᴘᴏ •", "@YOUR_FATHER_IS_BACK_BETE")
     ]
 ]
 
