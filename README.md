@@ -8,7 +8,7 @@
 
 <p align="center">
 
-  <img src="https://te.legra.ph/file/f13f31192e552e8666bd5.jpg">
+  <img src="https://graph.org/file/2087bf002739792d0735f-5a52b5d84bba68aeab.jpg">
 
 </p>
 
@@ -18,7 +18,7 @@ _𝗠𝗲𝘀𝘀𝗮𝗴𝗲 𝗺𝗲 𝗼𝗻 𝘁𝗲𝗹𝗲𝗴𝗿𝗮𝗺
 
 <p align="center">
 
-  <img src="https://te.legra.ph/file/ad4762b9906450e728074.jpg">
+  <img src="https://graph.org/file/2087bf002739792d0735f-5a52b5d84bba68aeab.jpg">
 
 </p>
 
@@ -66,7 +66,7 @@ _𝗠𝗲𝘀𝘀𝗮𝗴𝗲 𝗺𝗲 𝗼𝗻 𝘁𝗲𝗹𝗲𝗴𝗿𝗮𝗺
 
 </h3>
 
-- <b>[ᴍʏ ᴛᴇʟᴇɢʀᴀᴍ](http://t.me/shivam_jaiswal001)  ➻  [ ʏᴏᴜᴛᴜʙᴇ](https://youtube.com/@Shivam_jaiswal001) </b>
+- <b>[ᴍʏ ᴛᴇʟᴇɢʀᴀᴍ](http://t.me/ll_YOUR_FATHER_HU_ll)  ➻  [ ʏᴏᴜᴛᴜʙᴇ](https://youtube.com/@Shivam_jaiswal001) </b>
 
 - <b>[𝐀xᴇɴ](https://t.me/PyXen)  ➻  [ ʀᴇᴘᴏ ʟɪɴᴋ](https://github.com/ItZxSTaR/XBOTS) </b>
 
